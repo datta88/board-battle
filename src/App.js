@@ -82,7 +82,7 @@ function App() {
   return (
     <>
       <div className='center'>
-        <h1 className='text-center main-container'>🐵 Hic Tac Toe🐱</h1>
+        <h1 className='text-center main-container'>🐵 Tic Tac Toe🐱</h1>
         <div className='text-center player-tag'>
           <span className='player-span'>Player 1 :  🐵 </span>
           <span className='player-span'>Current Player :  {player === 1 ? "🐵" : "🐱"}</span>
